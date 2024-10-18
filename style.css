@@ -1,0 +1,13 @@
+*{
+  width: auto;
+  display:0;
+}
+.carouselExampleSlidesOnly{
+  justify-content: center;
+}
+.ns{
+  text-align: center;
+}
+.sn{
+  text-align: center;
+}
